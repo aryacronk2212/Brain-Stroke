@@ -70,7 +70,7 @@ footer = """
     }
     </style>
     <div class="footer">
-        © 2024 Cronk
+        © 2024 PUTRA ARYA DARMAWAN
     </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
